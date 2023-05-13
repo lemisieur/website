@@ -1,7 +1,7 @@
 title: LeMisieur Services
 author: J-F Poulin
 email: me@lemisieur.com
-description: > # this means to ignore newlines until "show_exerpts:"
+description: |- # this means to ignore newlines until "show_exerpts:"
   I’ve spent the last 10 years helping one of the major retailers in Canada achieve their deployments and automation goals,
   from driving cloud adoption to migrate existing on-prem infrastructure to the cloud.
   I'm also a big fan of video capture and editing, so hit me up if you need help with that too!
@@ -20,10 +20,6 @@ tag_page_dir: tag
 dash:
   # the way how dates should be displayed
   date_format: "%b %-d, %Y"
-
-  # (optional) discqus comment configuration
-  disqus:
-    shortname: bitbrain-github-io
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
